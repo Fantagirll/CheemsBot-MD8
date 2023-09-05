@@ -31,7 +31,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = "Fanta Bot"
 global.ownernumber = '919233943441'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownername = 'Fanta Savage'
 global.ownerNumber = ["919233943441@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
