@@ -2,11 +2,11 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
-global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.autoblockmorroco = true //auto block 212 (true to on, false to off)
+global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -34,7 +34,7 @@ global.ownernumber = '919233943441'
 global.ownername = 'Fanta Savage'
 global.ownerNumber = ["919233943441@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
+global.website "https://chat.whatsapp.com/FAg85qE2VT18ALetUoRWkY"
 global.wagc = "https://chat.whatsapp.com/H0ycI6fNYRU9nT5HTFU7Ub"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
