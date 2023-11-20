@@ -34,7 +34,7 @@ global.ownernumber = '919233943441'
 global.ownername = 'Fanta Savage'
 global.ownerNumber = ["919233943441@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
-global.website "https://chat.whatsapp.com/FAg85qE2VT18ALetUoRWkY"
+global.website "https://facebook.com"
 global.wagc = "https://chat.whatsapp.com/H0ycI6fNYRU9nT5HTFU7Ub"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
